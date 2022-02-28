@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ranters of both sexes, male and female: being thirteen or more, taken and imprisoned in the gate-house at Westminster, and in the new-prison at Clerken Well. Wherein John Robins doth declare himself to be the great God of Heaven, and the great deliverer, and that his wife is with childe with Jesus Christ, the Saviour of the world. With divers other blasphemous opinions, here truely set forth. Maintained before the Right VVorshipful Justice Whittacre, &amp; Justice Hubbert. / Written by John Taylor. There is a pamphlet in this kinde, written with too much haste, I know not by whom, with but few truths, which in this are more largely expressed.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95572</idno>
+            <idno type="STC">Wing T499</idno>
+            <idno type="STC">Thomason E629_15</idno>
+            <idno type="STC">ESTC R206443</idno>
+            <idno type="EEBO-CITATION">99865605</idno>
+            <idno type="PROQUEST">99865605</idno>
+            <idno type="VID">165864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E629[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ranters of both sexes, male and female: being thirteen or more, taken and imprisoned in the gate-house at Westminster, and in the new-prison at Clerken Well. Wherein John Robins doth declare himself to be the great God of Heaven, and the great deliverer, and that his wife is with childe with Jesus Christ, the Saviour of the world. With divers other blasphemous opinions, here truely set forth. Maintained before the Right VVorshipful Justice Whittacre, &amp; Justice Hubbert. / Written by John Taylor. There is a pamphlet in this kinde, written with too much haste, I know not by whom, with but few truths, which in this are more largely expressed.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hammon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robins, John, fl. 1650-1652.</term>
+               <term>Ranters --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165864:1" rendition="simple:additions"/>
+            <p>Ranters of both Sexes, Male and Female: BEING Thirteen or more, taken and impriſon<g ref="char:EOLhyphen"/>ed in the <hi>Gate-houſe</hi> at <hi>Weſtminſter,</hi> and in the <hi>New-priſon</hi> at <hi>Clerken Well.</hi> WHEREIN <hi>John Robins</hi> doth declare himſelf to be the great God of Heaven, and the great Deliverer, and that his wife is with childe <hi>with Jeſus Chriſt, the Saviour of the world.</hi> With divers other blaſphemous Opinions, here truely ſet forth. Maintained before the Right VVor<g ref="char:EOLhyphen"/>ſhipful Juſtice <hi>Whittacre,</hi> &amp; Juſtice <hi>Hubbert.</hi>
+            </p>
+            <p>Written by <hi>John Taylor.</hi>
+            </p>
+            <p>
+               <hi>There is a Pamphlet in this kinde, written with too much haste,</hi> I <hi>know not by whom, with but few truths, which in this are more largely expreſſed.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Hammon.</hi> 1651</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165864:2"/>
+            <pb n="1" facs="tcp:165864:2"/>
+            <head>Ranters of both Sexes, Male and Female: being thirteen or more, taken and impriſoned in the <hi>Gate<g ref="char:EOLhyphen"/>houſe</hi> at <hi>Weſtminſter,</hi> and in the <hi>New priſon</hi> at <hi>Clerken-well.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough many thouſands, of us poor mortals can<g ref="char:EOLhyphen"/>not perceive with our bodily eyes, or by our dark<g ref="char:EOLhyphen"/>neſſe of Reaſon and dulneſſe of Underſtanding, ſee or know any Viſible Church Militant upon Earth, yet Chriſt hath a Spouſe, which he knows and pro<g ref="char:EOLhyphen"/>tects, aſſiſts and preſerves; and is with her always to the end of the world, which the gates of Hell ſhall never pre<g ref="char:EOLhyphen"/>vaile againſt. This Church hath always been oppoſed, oppreſſed, and moleſted by Heretiques, who with their curſed opinions have done their uttermoſt endevors to rend and tear her in peeces, with ſwarmes of Sects, Sectarians and dangerous blaſphemous opini<g ref="char:EOLhyphen"/>ons and diviſions.</p>
+            <p>All theſe Heretiques, Schiſmaticks, and Sectarians (by reaſon of their multiplicities of opinions, and diverſities in their irreli<g ref="char:EOLhyphen"/>gious Religions) did hate one another with a moſt inveterate and deadly hatred, inſomuch as they ſcorned and deſpiſed to converſe, eat or drink together, they would never meet or congregate to<g ref="char:EOLhyphen"/>gether, at any of their publique or private exerciſes of their blind zealous devotions. Yet notwithſtanding all theſe ſeverall and va<g ref="char:EOLhyphen"/>rious diſagreements, they always concurred and agreed together, to ruine the race, and Rebell againſt the Lord and his Anoynted; The Devill would permit them to joyn in league againſt God and
+<pb n="2" facs="tcp:165864:3"/>his Church, <hi>Edomites, Moabites, Iſhmalites, Ammonites, Amalekites Gebabites,</hi> The <hi>Philiſtians, Tirenians, and Aſſyrians. Ephraim</hi> againſt <hi>Manaſſes, Manaſſes</hi> againſt <hi>Ephraim, Herod</hi> againſt <hi>Pilate, Pilate</hi> againſt <hi>Herod, Sadduces, Phariſees, Herodians, Libertines, Cillicians, Cerenians, Aſtans, and Alexandrians.</hi> All thoſe did hate one another and yet they agreed together, as the 83 <hi>Pſalm</hi> ſpecifies, and the whole relation of our Saviours life and death doth expreſſe it by the pens of the Evangeliſts, and Acts of the Apoſtles.</p>
+            <p>I have a Recitall of the Names and Opinions of many wicked and deteſtable Heretiques, Hereſies, and blaſphemous wretches, but that I will not hold my Reader in too long and tedious ſu<g ref="char:EOLhyphen"/>ſpence, Therefore I will now proceed to the matter intended, and promiſed in the Front and Title of this Book.</p>
+            <p>About the tenth or twelfth of <hi>May</hi> 1651. there were apprehen<g ref="char:EOLhyphen"/>ded and taken in an unlawfull Aſſembly theſe perſons following:
+<list>
+                  <item>
+                     <hi>Thomas Kerbye,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Tidford,</hi>
+                  </item>
+                  <item>
+                     <hi>Anne Burrell,</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Sorrell</hi> Widdow,</item>
+                  <item>
+                     <hi>Elizabeth Sorrell</hi> junior.</item>
+                  <item>
+                     <hi>Mary Vanlopp.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe were brought before the Right Worſhipful <hi>Laurence Whi<g ref="char:EOLhyphen"/>taker</hi>
+               <abbr>Eſq</abbr> (a judiciall Juſtice of the Peace and <hi>Quorum,</hi> for the County of <hi>Middleſex</hi>) he did examine the ſaid parties, and found their opinions to be ſo blaſphemous, and damnable Heretical, that it amazeth me with horrour to write them, and I am ſure it will ſtrike terrour and aſtoniſhment into the hearts of any true Chriſti<g ref="char:EOLhyphen"/>an, either to read or hear it. They are tearmed, or called by the name of <hi>Ranters,</hi> and their Opinions they affirmed to bee as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>They ſaid that they did beleeve that one <hi>John Robins</hi> is God the Father, and Father of our Lord <hi>Jeſus Christ,</hi> and that the Childe which is yet unborn, and now in the womb of <hi>Joan Robins,</hi> (the wife of the aforeſaid <hi>John</hi>) ſhall bee the Saviour of all thoſe that ſhal be ſaved, both in this world and in the world to come; And that <hi>Cain</hi> (who murthered his Brother <hi>Abel</hi>) was the third perſon in the Trinity. And that all thoſe that do deny it, do deny their own ſalvation.</p>
+            <p>They beleeve alſo that the ſaid <hi>John Robius</hi> had power to raiſe the dead.</p>
+            <pb n="3" facs="tcp:165864:3"/>
+            <p>This was all which they acknowledged to be the grounds and principles of their Faith and Religion, for the which de<g ref="char:EOLhyphen"/>teſtable and execrable Blaſphemies, they were all ſix committed Priſoners to the Gate-houſe at <hi>Weſtminſter,</hi> and there they doe remaine till ſome courſe of Law and Juſtice may order them according to their demerits.</p>
+            <p>Alſo here followeth a true Relation of ſeven others of the ſaid Crew, (whereof <hi>John Robins</hi> (their ſuppoſed ungodly God is one) their Names are as followeth; and they are all in the <hi>New-Priſon</hi> (or <hi>Bridewell</hi>) at <hi>Clerken-well.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>John Robins.</hi>
+               </item>
+               <item>
+                  <hi>Rich: King.</hi>
+               </item>
+               <item>
+                  <hi>Joſhua Garment.</hi>
+               </item>
+               <item>
+                  <hi>Joane Garment.</hi>
+               </item>
+               <item>
+                  <hi>Joane Robins.</hi>
+               </item>
+               <item>
+                  <hi>Margaret Hollis,</hi>
+               </item>
+               <item>
+                  <hi>Eliz: Haygood.</hi>
+               </item>
+            </list>
+            <p>To give a further Teſtimony of the truth of what is before written, I deſire the Reader to take notice of the Coppy of their commitment by a Warrant or Mittimus, from the Right Wor<g ref="char:EOLhyphen"/>ſhipfull <hi>Tho: Hubbert</hi> Eſquire, one of the Juſtices for the Peace in the aforeſaid County of <hi>Middleſex.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="warrant">
+               <body>
+                  <head>A true Coppy of Juſtice <hi>Hubberts</hi> Warrant, for committing theſe ſeven perſons to the <hi>New-Priſon</hi> at <hi>Clerken-well.</hi>
+                  </head>
+                  <opener>
+                     <dateline>Middleſex.</dateline>
+                  </opener>
+                  <p>YOu ſhall by vertue hereof receive into your Cuſtody, the Bodies of <hi>John Robins, Richard King, Joſhua Garment, Joane Gar<g ref="char:EOLhyphen"/>ment, Joane Robins, Margaret Hollis,</hi> and <hi>Elizabeth Haygood,</hi> being perſons that are great Blaſphemers and unlawfully aſſembled toge<g ref="char:EOLhyphen"/>ther: The aforeſaid <hi>Robins</hi> being acknowledged by them to be God Al<g ref="char:EOLhyphen"/>mighty, and their great deliverer; and for holding very groſſe and blaſ<g ref="char:EOLhyphen"/>phemous Opinions, as appeareth by their ſeverall examinations taken be<g ref="char:EOLhyphen"/>fore me, and behaving themſelves very rudely and uncivilly, clapping their hands, and fillipping with their fingers, caſting themſelves downe upon the ground, and ſinging, and uſeing ſtrange poſtures. Requiring you ſafe<g ref="char:EOLhyphen"/>ly to detaine and keep them in your Cuſtody, till they ſhall be delivered by due courſe of Law; and this ſhall be your Warrant.</p>
+                  <closer>
+                     <dateline>Dated <date>this 24th <hi>of</hi> May 1651.</date>
+                     </dateline>
+                     <signed>Signed <hi>THO: HUBBERT.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Thus the Devil ſhewes by his raging, that his raigning draws towards an end, ſometimes his Malice workes upon particular
+<pb n="4" facs="tcp:165864:4"/>perſons, as upon <hi>Noah</hi> in Drink, <hi>Lot</hi> with Inceſt, <hi>David</hi> with A<g ref="char:EOLhyphen"/>dultery, &amp;c. But his whole and maine generall drift ever hath bin, and ever will be, to diſturbe and deſtroy the Church of God, to ſow his miſchievous tares of damnable Errours, and mingle his helliſh ſeed of Sects and Schiſmes, with the pure and all-ſaving Word of God; of which not onely the ſacred Scrip<g ref="char:EOLhyphen"/>tures doe mention frequently. But amongſt all Nations in all ages they are declared in Hiſtories, as in <hi>Euſſebius, Socrates.</hi> St. <hi>Auguſtine,</hi> and all the ancient Fathers doe teſtifie; and for the preſent, the proofes of theſe miſeries are moſt plain and too la<g ref="char:EOLhyphen"/>mentable apparent.</p>
+            <p>Nor were people ever growne to ſuch an impudent height of impiety, as they are at this day; for in King <hi>Davids</hi> time, hee wrote that <hi>The Foole ſaid in his HEART there was no God,</hi> wher<g ref="char:EOLhyphen"/>by I note that though that Foole were an Hypocrite, yet he was aſhamed to ſpeake with his mouth, the blaſphemous Atheiſme which he ſaid in his heart.</p>
+            <p>But now, in theſe times we have amongſt us the hardned hearts and ſhameleſſe impudence of <hi>Pharaoh,</hi> and curſed <hi>Rabſhecka,</hi> too many there are that ſay in their hearts, and ſpeake with their tongues, <hi>Who is the Lord?</hi>
+            </p>
+            <p>It is no new work of Satan, to ſow Hereſies, and breede He<g ref="char:EOLhyphen"/>retickes, but they never came up ſo thick as in theſe latter times: They were wont to peep up by one and one, but now they ſprout out by huddles and cluſters (like locuſts out of the bottomeleſſe pit) They now come thronging upon us in ſwarmes, as the Ca<g ref="char:EOLhyphen"/>terpillers of Aegypt. They have turned our Bethell to Babell, (the houſe of God out of all Order, into all diſorderly confuſi<g ref="char:EOLhyphen"/>on) The Church of Chriſt hath more then one Enemy to cope withall, ſhe hath many new adverſaries, that it is hard to finde names for them,</p>
+            <p>We have more then a good many of ſuch as are called, <hi>Ada<g ref="char:EOLhyphen"/>mites, Novatians, Annabaptiſts, Brownists, Nicholaitans,</hi> and counterfiet <hi>Catholiques, Arminians, Antinomians, Newtraliſts, Familists, Lutherans, Independents, Round-heads, Dippers, Seekers, Shakers, Ranters,</hi> with many others not worth the naming: theſe are all profeſſors to be <hi>Protestants,</hi> every one pretending to be in the right, and not any of them but are contrary one to another;
+<pb n="5" facs="tcp:165864:4"/>So that it were a hard task to make ſearch for the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, or to find a Congregation of Religious Proteſtants.</p>
+            <p>There is not any one of theſe fore-recited Sects that do agree in opinion with other Sectaries, or with themſelves; As I have read in a <hi>Germaine</hi> Hiſtory, that when <hi>Luther</hi> had firſt oppoſed the <hi>Pope,</hi> and the <hi>Lutheran</hi> doctrine was newly revived (or newly hatched) then preſently, ſeveral ſtrange Opinions and Religi<g ref="char:EOLhyphen"/>ons, began to increaſe, and multiply. Some hot-brain'd preach<g ref="char:EOLhyphen"/>ers, ſaid that the Catholique or <hi>Romiſh</hi> Religion was too looſe, and full of liberty, and that <hi>Luthers</hi> was too ſtrict and harſh, therefore they would have a middle way between two Religions, to extract one (or none) and becauſe theſe people were ſo giddy pated that nothing could pleaſe them, they were called <hi>Caput Rotundi</hi> (or Round-heads;) which ſhews that the name of Round<g ref="char:EOLhyphen"/>head is near of a 150 years antiquity. Theſe mad people moleſt<g ref="char:EOLhyphen"/>ed <hi>Germany</hi> much, they had one amongſt them whom they cal<g ref="char:EOLhyphen"/>led <hi>Joſeph,</hi> and his Wife they ſaid was the Virgine <hi>Mary,</hi> and ſhe being with child, they ſaid, that the child in her womb was the <hi>Meſſiah,</hi> and Saviour of the World. <hi>Germany</hi> could not ſuppreſſe them, inſomuch that after many Battells and bloody Bickerings, with the loſſe of 50000 mens lives, the womans time of delivery came, and ſhe was fairely brought to bed with a Girle, where<g ref="char:EOLhyphen"/>upon all the ſeduced Rabble fled and diſperſed themſelves ſeverall ways, and the counterfeit <hi>Joſeph</hi> and <hi>Mary,</hi> were both burnt for a warning.</p>
+            <p>The like ſtir was kept in <hi>Westphalia,</hi> by one <hi>John,</hi> a Cobler of <hi>Leyden,</hi> he had three Prophets (as good men as himſelfe) named <hi>Knipper Dolling, John Matthew,</hi> and one <hi>Rottman,</hi> They preach'd mad delicate Doctrine, and they crowned the Cobler (<hi>John</hi> of <hi>Leyden</hi>) King of <hi>Munſter,</hi> at laſt the Biſhop (who was lawful Lord of the Province, and City of <hi>Munſter</hi>) made war upon the Cob<g ref="char:EOLhyphen"/>ling King, and after he had begirt the Town with a ſtreight ſiege ſome few weeks, proviſion ſo much failed, that the Streets were full beſtrewed with famiſhed karcaſſes, the City was taken by aſ<g ref="char:EOLhyphen"/>ſault, and the King was ſurpriſed, and pulled in peeces with hot Iron Pincers, his Prophets, and Aſſociates had alſo their rewards according to their Merits.</p>
+            <p>And it is not yet 50 years paſt ſince one <hi>William Hacket</hi> of <hi>Own<g ref="char:EOLhyphen"/>dell</hi>
+               <pb n="6" facs="tcp:165864:5"/>in <hi>Northamptonſhire</hi> a Wheele-wright, did affirm himſelfe to be <hi>Jeſus Chriſt,</hi> he had ſeduced two Gentlemen ſo far that they did beleeve him to be their Saviour, and they proclaimed him to be ſo, they ran crying out in the ſtreets of <hi>London,</hi> that <hi>Ieſus Chriſt, was come with his Fan in his hand to purge his floore,</hi> and that he was at <hi>Iohn Walkers</hi> houſe at Broken Wharfe. This noiſe and outcry, raiſed a great hurly burly in the City, till in the end <hi>Hacket</hi> was taken, drawn, and hanged in Cheapſide, for his odious blaſphe<g ref="char:EOLhyphen"/>mies againſt God, and high Treaſon againſt Queen <hi>Elizabeth; Copinger,</hi> and <hi>Arthington</hi> (his two prophets) were impriſoned, one in the Compter in Woodſtreet, the other in Bridewel, where they dyed miſerably.</p>
+            <p>Alſo in the year of our Lord 1611. the 9th of King <hi>Iames,</hi> one <hi>Bartholmew Legate</hi> (an <hi>Arian</hi> Hereticke) did deny Chriſt to be God, for the which he was burned in <hi>Smithfield</hi> on the 18th. of <hi>March,</hi> in the year aforeſaid. And on the 11 of <hi>Aprill</hi> following, was burned one <hi>Edward Wightman</hi> for the ſame blaſphemous opi<g ref="char:EOLhyphen"/>nions, <hi>Wightman</hi> ſuffered at <hi>Litchfield.</hi> The King did offer them both mercy if they would recant, but they refuſed mercy, and dyed ob<g ref="char:EOLhyphen"/>ſtinate.</p>
+            <p>Concerning theſe 13 Wretches, whom I have taken occaſion to write this ſhort Relation of, All that I can ſay for them, is to deſire God to grant his bleſſed ſpirit to caſt out the accurſed ſpi<g ref="char:EOLhyphen"/>rit out of them, and that all Hereſies, Sects, and Diviſions may be expelled from the true Church, that through, in, and for Jeſus Chriſt (all that do profeſſe to be Chriſtians) may be the faithfull ſheep of the true ſhepheard, and eternally, happily of his one and onely bleſſed ſheepfold.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
